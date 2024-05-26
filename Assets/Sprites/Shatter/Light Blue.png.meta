@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: bc857a8a3f9b44c49a1f8348f1fb53ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6198893261929303418
+    second: Light Blue_0
+  - first:
+      213: 6451856622392709755
+    second: Light Blue_1
+  - first:
+      213: -316878262949199519
+    second: Light Blue_2
+  - first:
+      213: -1318552336195887674
+    second: Light Blue_3
+  - first:
+      213: 1692223412002460170
+    second: Light Blue_4
+  - first:
+      213: -1221775956480536595
+    second: Light Blue_5
+  - first:
+      213: 2749111519263582819
+    second: Light Blue_6
+  - first:
+      213: 6863984369525382399
+    second: Light Blue_7
+  - first:
+      213: 7822574506301233363
+    second: Light Blue_8
+  - first:
+      213: -5552561131732885100
+    second: Light Blue_9
+  - first:
+      213: 3248849353529250829
+    second: Light Blue_10
+  - first:
+      213: 297345417189788717
+    second: Light Blue_11
+  - first:
+      213: -458848617033983677
+    second: Light Blue_12
+  - first:
+      213: -2667819038679132908
+    second: Light Blue_13
+  - first:
+      213: -1162408513620264918
+    second: Light Blue_14
+  - first:
+      213: 228660599118896026
+    second: Light Blue_15
+  - first:
+      213: 7590004613550050258
+    second: Light Blue_16
+  - first:
+      213: 2639776793457767636
+    second: Light Blue_17
+  - first:
+      213: -1391349969726579841
+    second: Light Blue_18
+  - first:
+      213: 4859562869556472856
+    second: Light Blue_19
+  - first:
+      213: -6419748602581079666
+    second: Light Blue_20
+  - first:
+      213: -3732448490084870551
+    second: Light Blue_21
+  - first:
+      213: -8120647309671614823
+    second: Light Blue_22
+  - first:
+      213: 6684099382847104963
+    second: Light Blue_23
+  - first:
+      213: 1114502105769233028
+    second: Light Blue_24
+  - first:
+      213: 1963303422810561262
+    second: Light Blue_25
+  - first:
+      213: 3501066382757991231
+    second: Light Blue_26
+  - first:
+      213: 5933171196520090101
+    second: Light Blue_27
+  - first:
+      213: 1458791670179645437
+    second: Light Blue_28
+  - first:
+      213: 7889512767128248245
+    second: Light Blue_29
+  - first:
+      213: -4943538809147894122
+    second: Light Blue_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light Blue_0
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 337
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6823422eb6b19f9a0800000000000000
+      internalID: -6198893261929303418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 212
+        width: 66
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7218772a69998950800000000000000
+      internalID: 6451856622392709755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 291
+        width: 156
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161ced316e83a9bf0800000000000000
+      internalID: -316878262949199519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 340
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd584fd2af83bde0800000000000000
+      internalID: -1318552336195887674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_4
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 251
+        width: 120
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0291093a3cfb7710800000000000000
+      internalID: 1692223412002460170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_5
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 396
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4dd6ad316b0fe0800000000000000
+      internalID: -1221775956480536595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 118
+        width: 169
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ae3a18c5ec62620800000000000000
+      internalID: 2749111519263582819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 314
+        width: 145
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcd469ca65c14f50800000000000000
+      internalID: 6863984369525382399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 201
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89c15511e5f8c60800000000000000
+      internalID: 7822574506301233363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 200
+        width: 138
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491ab65c11751f2b0800000000000000
+      internalID: -5552561131732885100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 313
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d045edd164b361d20800000000000000
+      internalID: 3248849353529250829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 333
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c003fd412602400800000000000000
+      internalID: 297345417189788717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 229
+        width: 113
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34992082d97d1a9f0800000000000000
+      internalID: -458848617033983677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 231
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415918218b00afad0800000000000000
+      internalID: -2667819038679132908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 254
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2836c59d9b4edfe0800000000000000
+      internalID: -1162408513620264918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 216
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b1c987a9d5c2300800000000000000
+      internalID: 228660599118896026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_16
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 237
+        width: 111
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0a328bfc155960800000000000000
+      internalID: 7590004613550050258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_17
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 232
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4be5ce10f52a420800000000000000
+      internalID: 2639776793457767636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 200
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b5230039ee0bce0800000000000000
+      internalID: -1391349969726579841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_19
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 116
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c679bcea2a07340800000000000000
+      internalID: 4859562869556472856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_20
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 114
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8928d3c8a878e6a0800000000000000
+      internalID: -6419748602581079666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 42
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9665c06afdda33cc0800000000000000
+      internalID: -3732448490084870551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 23
+        width: 148
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996bac00c4aad4f80800000000000000
+      internalID: -8120647309671614823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 21
+        width: 108
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7620e89f0b2cc50800000000000000
+      internalID: 6684099382847104963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48accc3a2c1877f00800000000000000
+      internalID: 1114502105769233028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 19
+        width: 139
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea9eee9f0e0f3b10800000000000000
+      internalID: 1963303422810561262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 11
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f331a5f5359469030800000000000000
+      internalID: 3501066382757991231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_27
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 11
+        width: 258
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9c82894cbd65250800000000000000
+      internalID: 5933171196520090101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_28
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 15
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df74b568b4bae3410800000000000000
+      internalID: 1458791670179645437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_29
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 12
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf969faf0e2d7d60800000000000000
+      internalID: 7889512767128248245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Blue_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d16325a5056bb0800000000000000
+      internalID: -4943538809147894122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Light Blue_0: -6198893261929303418
+      Light Blue_1: 6451856622392709755
+      Light Blue_10: 3248849353529250829
+      Light Blue_11: 297345417189788717
+      Light Blue_12: -458848617033983677
+      Light Blue_13: -2667819038679132908
+      Light Blue_14: -1162408513620264918
+      Light Blue_15: 228660599118896026
+      Light Blue_16: 7590004613550050258
+      Light Blue_17: 2639776793457767636
+      Light Blue_18: -1391349969726579841
+      Light Blue_19: 4859562869556472856
+      Light Blue_2: -316878262949199519
+      Light Blue_20: -6419748602581079666
+      Light Blue_21: -3732448490084870551
+      Light Blue_22: -8120647309671614823
+      Light Blue_23: 6684099382847104963
+      Light Blue_24: 1114502105769233028
+      Light Blue_25: 1963303422810561262
+      Light Blue_26: 3501066382757991231
+      Light Blue_27: 5933171196520090101
+      Light Blue_28: 1458791670179645437
+      Light Blue_29: 7889512767128248245
+      Light Blue_3: -1318552336195887674
+      Light Blue_30: -4943538809147894122
+      Light Blue_4: 1692223412002460170
+      Light Blue_5: -1221775956480536595
+      Light Blue_6: 2749111519263582819
+      Light Blue_7: 6863984369525382399
+      Light Blue_8: 7822574506301233363
+      Light Blue_9: -5552561131732885100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
